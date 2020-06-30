@@ -1,7 +1,7 @@
 package com.company;
 
 public class Starcheus {
-    void text(){
-        System.out.println("Some text");
+    void text(String a){
+        System.out.println(a);
     }
 }
